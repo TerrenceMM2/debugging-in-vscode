@@ -9,7 +9,7 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "nodemon",
+            "name": "Express",
             "runtimeExecutable": "${workspaceFolder}/node_modules/nodemon/bin/nodemon.js",
             "program": "${workspaceFolder}/app.js",
             "restart": true,

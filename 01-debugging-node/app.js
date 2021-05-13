@@ -40,4 +40,4 @@ const containsLetter = (str, letter) => {
 // console.log(containsLetter(input, "t"));
 
 // Example 4
-// console.log(characterCount(input));
+console.log(characterCount(input));
