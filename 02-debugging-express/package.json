@@ -1,0 +1,16 @@
+{
+    "name": "debugging-express",
+    "version": "1.0.0",
+    "description": "A sample Express web server to demostrate debugging in VS Code.",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Terrence Mahnken",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.7"
+    }
+}
