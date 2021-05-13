@@ -24,6 +24,7 @@ Open each sample in its own instance of VS Code. Refer to the README within each
 -   [VS Code Docs: Debugging](https://code.visualstudio.com/docs/editor/debugging)
 -   [VS Code Docs: Node Debugging](https://code.visualstudio.com/docs/nodejs/nodejs-debugging)
 -   [VS Code Docs: Using React in Visual Studio Code - Debugging React](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial#_debugging-react)
+-   [VS Code Marketplace: Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 ### Author
 
